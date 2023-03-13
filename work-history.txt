@@ -1,0 +1,93 @@
+Education
+
+The University of Texas at San Antonio   
+Bachelor of Science in Mathematics         Graduated May 2013
+Minor in Actuarial Science
+Activities: Association for Information Systems
+
+Software and Related Skills
+
+    - SAS, R, python, Project Planning, Applied Mathematics, ReactJS, Node.js, Linux Administration (debian/gentoo/ubuntu), git
+    - Other Languages: Java, C#, C, C++, Matlab, Maple
+    - Experience with survival analysis, linear and logistic regression, and time series in SAS and R
+
+Work Experience
+
+United States Census Bureau
+IT Specialist                			2019-2025
+    - Fixed a critical bug in internal mapping software
+    - Identified and compiled list of actions that led to a failure in moving
+      development information to GitLab from Version Manager
+    - Small team SCRUM meeting lead expereience
+
+Self Employed
+Tutor	      				       		2010-2018
+	- Tutor students in C++ and C# and in math subjects
+
+The University of Texas at San Antonio College of Business    		January 2017-May 2017
+Teaching Assistant 	   
+	- Instructed students in basic statistics for a freshman level Management Science course
+	- Provide timely grading services to the supervising faculty
+
+The Center for Health Care Services				May 2016-October 2016
+Peer Support Specialist	
+	- Built connections with community resources such as Cafe College, San Antonio Food Bank, and The Clubhouse to support and develop new program 
+	- Provided outreach and follow up to clients for the Bexar County Jail Diversion Program
+	- Work with the experienced Clinic Peers and Certified Peer Specialists to learn about the peer role and engage in effective communication with clients
+
+Self-Employed									August 2015-April 2016
+Programmer/Statistician	
+	- Contracted with clients on upwork.com for scientific related projects in python and R such as genetic analysis and time-series generation automation,
+	  examples available upon request
+	- Usage of numpy and pandas in python
+	- Usage of forecast, tseries, and dygraph in R
+
+Haven for Hope 		                            June 2015-November 2015
+Volunteer Tutor and Volunteer Lab Instructor	
+	- Assisted in development of curriculum for self-paced learning for Haven members
+	- Provided assistance as needed to attendees of the lab
+	- Instructed GED students in Mathematics necessary to pass the exam
+
+The San Antonio Clubhouse					    May 2014-June 2014
+Volunteer
+	- Helped develop intranet site for compilation of statistics displaying participation
+	- Compiled statistics for stakeholder presentation; generate queries for statistics compilation in Microsoft SQL.
+	- Instructed members on usage of computers
+
+InGenesis, Inc 				           			July 2013-November 2013
+Web Developer	(Contract)
+	- Participated in the application requirements gathering process
+	- Proposed and justified design of database tables that captured the required information
+	- Used Visual Studio 2010 to develop ASP.NET Web Forms, C#, Entity Framework, CSS, and JavaScript for the design of the interface
+	- Utilized the business logic layer and LINQ to query the Entity Framework
+	- Used AJAX to implement responsive user interface elements that displayed the information
+
+The University of Texas at San Antonio       	April 2013-July 2013 
+Senior Computer Operations Specialist	(Temp)  
+	- Worked on application written in ASP.NET and C# that connected the web interface with Microsoft Exchange, and Microsoft SQL
+	- Supervised contractors in multiple data centers across campus 
+
+West Telemarking								May 2002-July 2002
+	- Earthlink dail up internet support through incoming phone calls
+
+Leslie's Pools									May 2001-August 2001
+Store Associate
+	- Pool's water chlorine, salinity, and calcium count chemistry measures
+	- Computerized inventory and order operations
+	- Mopped floor with minimal supervision
+	- Custodian duties in store restroom
+	- Merchandised pool maintenance products
+
+Circuit City									November 2000-April 2001
+Merchandising Associate
+    - Front facing software and hardware
+	- Sales register operations such as cash, check, and credit card sales
+	- Software and periphial purchasing suggestions
+Computer and Cellular Phone Sales Associate
+	- Sales pitched Hewlet-Packard, Dell, E Machines, and Compaq pre-built systems
+	- Assist in immediate crash recovery of purchased systems from recovery media
+	- Operated in store credit systems for financed sales of eligible products
+Warehouse Associate							   	February 2002-May 2002
+	- Retrieved on floor orders from in store warehouse
+	- Accepted delivery and shelved in predefined inventory slots new long haul trailer shipments
+    - Operated trash compactor after store waste receptcles were cleared
