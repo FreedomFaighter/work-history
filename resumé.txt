@@ -1,0 +1,79 @@
+Education
+
+The University of Texas at San Antonio   
+Bachelor of Science in Mathematics               		         Graduated May 2013
+Minor in Actuarial Science   18 undergraduate hours in statistics courses
+
+Software and Related Skills
+
+    - SAS, R, Python, Project Planning, Applied Mathematics, ReactJS, Node.js, Linux (debian/gentoo/ubuntu), Git
+    - Other Languages:   Java, C#, C, C++, Matlab, Maple
+    - Experience with survival analysis, linear and logistic regression, and time series in SAS and R
+
+Work Experience
+
+United States Census Bureau
+Information Technology Specialist
+GS 12									2022-Present
+GS 11									2021-2022
+GS 9									2020-2021
+GS 7									2019-2020
+	- Knowledge of the customary approaches, techniques, and requirements appropriate to an assigned computer applications area or computer specialty area in an organization
+	- Planning the sequence of actions necessary to accomplish the assignment where this entailed coordination with others outside the organizational unit and development of project controls
+	- Adaptation of guidelines or precedents to the needs of the assignment.
+	- Analysis of the interrelationships of pertinent components of the system
+	- Planning the sequence of actions necessary to accomplish the assignment
+	- Personal responsibility for at least a segment of the overall project
+	- Translating detailed logical steps developed by others into language codes that computers accept where this required understanding of procedures and limitations appropriate to use of a programming language
+	- Interviewing subject-matter personnel to get facts regarding work processes, and synthesizing the resulting data into charts showing information flow
+	- Operating computer consoles where this involved choosing from among various procedures in responding to machine commands or unscheduled halts
+	- Scheduling the sequence of programs to be processed by computers where alternatives had to be weighed with a view to production efficiency
+	- Preparing documentation on cost/benefit studies where this involved summarizing the material and organizing it in a logical fashion
+	- Knowledge is generally demonstrated by assignments where the applicant analyzed a number of alternative approaches in the process of advising their supervisor
+
+Self Employed
+Tutor	      				       		2010-2018
+	- Tutor students in C++ and C# and in math subjects
+
+The University of Texas at San Antonio                         		January 2017-May 2017
+Teaching Assistant College of Business	   
+	- Instructed students in basic statistics for a freshman level Management Science course
+	- Provide timely grading services to the supervising faculty
+
+The Center for Health Care Services 			       		May 2016-October 2016
+Peer Support Specialist	
+	- Built connections with community resources such as Cafe College, San Antonio Food Bank, and The Clubhouse to support and develop new program 
+	- Provided outreach and follow up to clients for the Bexar County Jail Diversion Program
+	- Work with the experienced Clinic Peers and Certified Peer Specialists to learn about the Peer role and engage in effective communication with clients
+
+Self-Employed 					               		August 2015-April 2016
+Programmer/Statistician	
+	- Contracted with clients on Upwork.com for scientific related projects in python and R such as genetic analysis and time-series generation automation, examples available upon request
+	- Usage of Numpy and Pandas in Python
+	- Usage of forecast, tseries, and dygraph in R
+
+Haven for Hope 		                                       		June 2015-November 2015
+Volunteer Tutor and Volunteer Lab Instructor	
+	- Assisted in development of curriculum for self-paced learning for Haven members
+	- Provided assistance as needed to attendees of the lab
+	- Instructed GED students in Mathematics necessary to pass the exam
+
+The San Antonio Clubhouse					         May 2014-June 2014
+Volunteer
+	- Helped develop intranet site for compilation of statistics displaying participation
+	- Compiled statistics for stakeholder presentation; generate queries for statistics compilation in MS SQL.
+	- Instructed members on usage of computers
+
+InGenesis, Inc 				           			July 2013-November 2013
+Web Developer	(Contract) 
+	- Participated in the application requirements gathering process
+	- Proposed and justified design of database tables that captured the required information
+	- Used Visual Studio 2010 to develop ASP.NET Web Forms, C#, Entity Framework, CSS, and JavaScript for the design of the interface
+	- Utilized the business logic layer and LINQ to query the Entity Framework
+	- Used AJAX to implement responsive user interface elements that displayed the information
+
+The University of Texas at San Antonio       				April 2013-July 2013 
+Senior Computer Operations Specialist	(Temp)  
+	- Worked on application written in ASP.NET and C# that connected the web interface with Microsoft Exchange, and MS SQL
+	- Supervised contractors in multiple data centers across campus 
+
