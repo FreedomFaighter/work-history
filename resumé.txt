@@ -17,7 +17,8 @@ IT Specialist                2019-Present
   - Fixed a critical bug in internal mapping software
   - Identified and compiled list of actions that led to a failure in moving
     development information to GitLab from Version Manager
-  
+  - Small team SCRUM meeting lead expereience
+
 Self Employed
 Tutor	      				       		2010-2018
 	- Tutor students in C++ and C# and in math subjects
