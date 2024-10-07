@@ -2,11 +2,11 @@ Education
 
 The University of Texas at San Antonio   
 Bachelor of Science in Mathematics               		         Graduated May 2013
-Minor in Actuarial Science   18 undergraduate hours in statistics courses
+Minor in Actuarial Science
 
 Software and Related Skills
 
-    - SAS, R, Python, Project Planning, Applied Mathematics, ReactJS, Node.js, Linux (debian/gentoo/ubuntu), Git
+    - SAS, R, python, Project Planning, Applied Mathematics, ReactJS, Node.js, Linux (debian/gentoo/ubuntu), git
     - Other Languages:   Java, C#, C, C++, Matlab, Maple
     - Experience with survival analysis, linear and logistic regression, and time series in SAS and R
 
@@ -23,8 +23,8 @@ Self Employed
 Tutor	      				       		2010-2018
 	- Tutor students in C++ and C# and in math subjects
 
-The University of Texas at San Antonio                         		January 2017-May 2017
-Teaching Assistant College of Business	   
+The University of Texas at San Antonio College of Business    		January 2017-May 2017
+Teaching Assistant 	   
 	- Instructed students in basic statistics for a freshman level Management Science course
 	- Provide timely grading services to the supervising faculty
 
@@ -32,12 +32,13 @@ The Center for Health Care Services 			       		May 2016-October 2016
 Peer Support Specialist	
 	- Built connections with community resources such as Cafe College, San Antonio Food Bank, and The Clubhouse to support and develop new program 
 	- Provided outreach and follow up to clients for the Bexar County Jail Diversion Program
-	- Work with the experienced Clinic Peers and Certified Peer Specialists to learn about the Peer role and engage in effective communication with clients
+	- Work with the experienced Clinic Peers and Certified Peer Specialists to learn about the peer role and engage in effective communication with clients
 
 Self-Employed 					               		August 2015-April 2016
 Programmer/Statistician	
-	- Contracted with clients on Upwork.com for scientific related projects in python and R such as genetic analysis and time-series generation automation, examples available upon request
-	- Usage of Numpy and Pandas in Python
+	- Contracted with clients on upwork.com for scientific related projects in python and R such as genetic analysis and time-series generation automation,
+	  examples available upon request
+	- Usage of numpy and pandas in python
 	- Usage of forecast, tseries, and dygraph in R
 
 Haven for Hope 		                                       		June 2015-November 2015
@@ -49,11 +50,11 @@ Volunteer Tutor and Volunteer Lab Instructor
 The San Antonio Clubhouse					         May 2014-June 2014
 Volunteer
 	- Helped develop intranet site for compilation of statistics displaying participation
-	- Compiled statistics for stakeholder presentation; generate queries for statistics compilation in MS SQL.
+	- Compiled statistics for stakeholder presentation; generate queries for statistics compilation in Microsoft SQL.
 	- Instructed members on usage of computers
 
 InGenesis, Inc 				           			July 2013-November 2013
-Web Developer	(Contract) 
+Web Developer	(Contract)
 	- Participated in the application requirements gathering process
 	- Proposed and justified design of database tables that captured the required information
 	- Used Visual Studio 2010 to develop ASP.NET Web Forms, C#, Entity Framework, CSS, and JavaScript for the design of the interface
@@ -62,6 +63,6 @@ Web Developer	(Contract)
 
 The University of Texas at San Antonio       				April 2013-July 2013 
 Senior Computer Operations Specialist	(Temp)  
-	- Worked on application written in ASP.NET and C# that connected the web interface with Microsoft Exchange, and MS SQL
+	- Worked on application written in ASP.NET and C# that connected the web interface with Microsoft Exchange, and Microsoft SQL
 	- Supervised contractors in multiple data centers across campus 
 
