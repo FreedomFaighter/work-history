@@ -5,6 +5,9 @@ Bachelor of Science in Mathematics         Graduated May 2013
 Minor in Actuarial Science
 Activities: Association for Information Systems
 
+Texas A&M University/Blinn College TEAM-Computer Science
+Fall 2001
+
 Software and Related Skills
 
     - SAS, R, python, Project Planning, Applied Mathematics, ReactJS, Node.js, Linux Administration (debian/gentoo/ubuntu), git
