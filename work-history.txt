@@ -51,6 +51,7 @@ Programmer/Statistician
 
 Haven for Hope 		                            June 2015-November 2015
 Volunteer Tutor and Volunteer Lab Instructor	
+Supervised by: [Rolanda Anwar](https://www.github.com/RolandaAnwar)
 	- Assisted in development of curriculum for self-paced learning for Haven members
 	- Provided assistance as needed to attendees of the lab
 	- Instructed GED students in Mathematics necessary to pass the exam
