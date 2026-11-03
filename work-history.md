@@ -1,30 +1,32 @@
-Education
+Education:
 
-The University of Texas at San Antonio   
-Bachelor of Science in Mathematics         Graduated May 2013
+[The University of Texas at San Antonio](https://www.utsa.edu)
+Bachelor of Science in Mathematics	Graduated May 2013
 Minor in Actuarial Science
-Activities: Association for Information Systems
+Activities: Association for Information Systems, Phi Chi Theta
 
-Texas A&M University/Blinn College TEAM-Computer Science
+[Texas A&M University](https://www.tamu.edu)/[Blinn College](https://www.blinn.edu) 
+TEAM-Computer Science
 Fall 2001
 
-Certifications
-Texas Alcoholic Beverage Commision Server #10659105
+Certifications:
+
+Texas Alcoholic Beverage Commission Server #10659105
 
 Software and Related Skills
 
-    - SAS, R, python, Project Planning, Applied Mathematics, ReactJS, Node.js, Linux Administration (debian/gentoo/ubuntu), git
+    - [SAS](https://www.sas.com), R, python, Project Planning, Applied Mathematics, ReactJS, Node.js, Linux Administration (debian/gentoo/ubuntu/redhat), git
     - Other Languages: Java, C#, C, C++, Matlab, Maple
     - Experience with survival analysis, linear and logistic regression, and time series in SAS and R
 
 Work Experience
 
-United States Census Bureau
+[United States Census Bureau](https://census.gov)
 IT Specialist                			2019-2025
     - Fixed a critical bug in internal mapping software
     - Identified and compiled list of actions that led to a failure in moving
       development information to GitLab from Version Manager
-    - Small team SCRUM meeting lead expereience
+    - Small team SCRUM meeting lead experience
     - Participated in yearly Title 5 and 13 compliance training
 
 Self Employed
@@ -81,17 +83,17 @@ Financial Aid Associate
 
 Texas Land & Cattle   May 2006-September 2006
 Waiter
-  - Served alcohol within Texas Alcoholic Beverage Commision guidelines
-  - Menu suggestions provided for dine-in patrons
+  	- Served alcohol within Texas Alcoholic Beverage Commission guidelines
+  	- Menu suggestions provided for dine-in patrons
 
-Estancia Del Norte formerly DoubleTree by Hilton    April 2004-July 2006
+Estancia Del Norte formerly DoubleTree by Hilton    April 2003-July 2006
 Bell Boy
-  - Carried guest possessions to room after checkin
-  - Periodic trips to North Star Mall for Guests
-  - Trips for guests to San Antonio Airport with hotel provided shuttle service
+	- Carried guest possessions to room after check-in
+ 	- Periodic trips to North Star Mall for Guests
+	- Trips for guests to San Antonio Airport with hotel provided shuttle service
 
 West Telemarking								May 2002-July 2002
-	- Earthlink dail up internet support through incoming phone calls
+	- Earthlink dial-up internet support through incoming phone calls
 
 Leslie's Pools									May 2001-August 2001
 Store Associate
@@ -103,14 +105,14 @@ Store Associate
 
 Circuit City									November 2000-April 2001
 Merchandising Associate
-    - Front facing software and hardware
+	- Front facing software and hardware
 	- Sales register operations such as cash, check, and credit card sales
-	- Software and periphial purchasing suggestions
+	- Software and peripheral purchasing suggestions
 Computer and Cellular Phone Sales Associate
-	- Sales pitched Hewlet-Packard, Dell, E Machines, and Compaq pre-built systems
+	- Sales pitched Hewlett-Packard, Dell, E Machines, and Compaq pre-built systems
 	- Assist in immediate crash recovery of purchased systems from recovery media
 	- Operated in store credit systems for financed sales of eligible products
 Warehouse Associate							   	February 2002-May 2002
 	- Retrieved on floor orders from in store warehouse
 	- Accepted delivery and shelved in predefined inventory slots new long haul trailer shipments
-    - Operated trash compactor after store waste receptcles were cleared
+    	- Operated trash compactor after store waste receptacles were cleared
